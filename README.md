@@ -27,7 +27,7 @@ Exploring the booking data to answer key questions, such as :
 - Which department has seen the most number of attritions?
 
 ### Data Visualization
-![Screenshot 2024-07-03 022843](https://github.com/shubh-20-am/HR_Analysis/assets/141903981/3b56a99f-fdce-4918-a71b-c6473ffd46e8)
+![Screenshot 2024-07-03 023552](https://github.com/shubh-20-am/HR_Analysis/assets/141903981/df1ab929-c1af-4232-a30e-041af37713ca)
 
 
 

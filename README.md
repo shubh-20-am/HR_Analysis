@@ -26,8 +26,9 @@ Exploring the booking data to answer key questions, such as :
 - What is the attrition rate?
 - Which department has seen the most number of attritions?
 
-### Data Visualization 
-![Screenshot 2024-07-01 204126](https://github.com/shubh-20-am/Hotel_Chain_Analysis/assets/141903981/47534d62-7d07-4a55-af38-25eaabc2e5ba)
+### Data Visualization
+![Screenshot 2024-07-03 022843](https://github.com/shubh-20-am/HR_Analysis/assets/141903981/3b56a99f-fdce-4918-a71b-c6473ffd46e8)
+
 
 
 ### Results/Findings

@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [Data Visualization](#data-visualization)
 
 ### Project Overview 
 
@@ -38,10 +38,3 @@ The analysis results are summarised as follows:
 3. Research and Development department has seen most number of attritions.
 4. Most of the employees leaving the company are from the age group 26-35.
 
-### Recommendations
-
-Based on the analysis, following actions are recommended : 
-
-- Implement a dynamic pricing or weekday/weekend pricing.
-- Focus on increasing their rating as it is directly proportional to occupancy.
-- Invest in marketing and promotions during peak seasons to maximise revenue.
